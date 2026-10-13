@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Windows/AppReadiness"
+		},
+		{
+			"name": "IOT 1",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
